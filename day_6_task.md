@@ -89,7 +89,7 @@ let movie = new Movie("Casino Royale", "Eon Productions", "PG-13");
  
 ```
 
-**2. 
+2. 
 
 ```js
 class Circle{
